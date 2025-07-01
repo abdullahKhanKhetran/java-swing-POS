@@ -1,4 +1,4 @@
-# java-swing-POS
+# java-swing + MySQL-POS
 a POS made for a bookstore in java swing backed by MySQL database 
 
 HOW TO USE 
