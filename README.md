@@ -12,6 +12,14 @@ features
 
 3-change user  seettings for your database according to the user info in config you can change config username and password if you want then proceed to MySQL 
 
+4-Make sure your sever is live and run the java project it should show you a login screen 
+credentials for both admin and developer are stored in mysql dump 
+still here they are if you cant find them 
+ROLE    username  password
+admin     abc     	123	
+developer dev    	dev123	
+
+
 STRUCTURE
 
 -each container got its own class for clarity
